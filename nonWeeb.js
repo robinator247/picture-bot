@@ -2,7 +2,7 @@ var Discord = require('discord.io');
 
 var bot = new Discord.Client({
     autorun: true,
-    token: "MjI5Mjg4ODIxNzA1OTMyODAw.CshFZg.KA30Q-wm9b6ORfH9-PqvIjsc19o"
+    token: ""
 });
 
 //create array of images to send
